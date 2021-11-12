@@ -1,14 +1,14 @@
 # ada-2021-project-adagang
 
-#Title: Black Lives Matter: How has the movement impacted the world?
+# Title: Black Lives Matter: How has the movement impacted the world?
 
-#Abstract: 
+# Abstract: 
 
 In 2013, the Black Lives Matter (BLM) movement emerged in response to the police brutality experienced by Black people in the United States. The movement has become increasingly popular, presumably due to the myriad protests that have been organized since its inception. However, its popularity has sparked mixed sentiment within America’s socio-political landscape. Thus, we analyze how select mediatized protests have impacted discourse and legislative action either in favor of or in opposition to the movement.
 To do so, we do a comparative analysis of BLM’s approval before and after each event by performing sentiment analysis over time on related quotes found in the Quotebank dataset. Further, we show how any potential attitude shifts differ by demographic group. We combine this analysis with data on what tangible socio-political change has been made as a result of these demonstrations. We hope our analysis serves to evaluate the efficacy of civic engagement. 
 
 
-#Research Questions: 
+# Research Questions: 
 
 Analyze the impact of events related to BLM/police brutality on discourse:
   How does each event affect how often BLM/police brutality is talked about?
@@ -21,7 +21,7 @@ Analyze the impact of events related to BLM on legislation/politics
     possible confounders here, budgets fluctuate for many reasons
 
 
-#Proposed additional datasets (if any): 
+# Proposed additional datasets (if any): 
 
 We are still working through and deciding on which to use:
 Police brutality data:
@@ -33,7 +33,7 @@ https://www.kaggle.com/new-york-state/nys-hate-crimes-by-county-and-bias-type?se
 Library with different dataframes about BLM : policing and Incarceration
 
 
-#Methods:
+# Methods:
 
 Preliminary work
   - Pick 1 or 2 relevant events to analyze for each year
@@ -60,7 +60,7 @@ Create Data Story
 
 
 
-#Proposed timeline
+# Proposed timeline
 
 By Friday November 19: Complete (a) in Methods. Complete (b) in Methods for the Quotebank dataset with final cleaned version.
 
@@ -99,7 +99,7 @@ Create Data Story
 
 
 
-#Questions for TAs (optional): Add here any questions you have for us related to the proposed project.
+# Questions for TAs (optional): Add here any questions you have for us related to the proposed project.
 
   - Is the use of keywords the best way to filter the quotations ? Aren’t we missing some quotations that talk about our subject but do not contain our keywords ?
   - On the opposite, are we including quotations that do contain the keywords but have nothing to do with police brutality ? 
