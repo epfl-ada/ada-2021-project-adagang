@@ -35,12 +35,14 @@ Library with different dataframes about BLM : policing and Incarceration
 
 # Methods:
 
-Preliminary work
+## Preliminary work
   - Pick 1 or 2 relevant events to analyze for each year
   - Establish a list of interesting keywords and interesting people to search in the quotations
+
 Data Wrangling
   - Quotebank dataset: explore data, extract all related quotes, visualization of amount of relevant quotes over time, are there any peaks? 
   - Speaker dataset: explore dataset, find relevant demographic information of all speakers in our related quotes dataset (race, ethnicity, gender identity, age,     political party affiliation, socioeconomic status?, occupation - politician, activist, other)
+
 Modeling
   - NLP
     - Sentiment Analysis of quotes
