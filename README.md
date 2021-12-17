@@ -118,6 +118,8 @@ Over Break: Write Data Story (f)
 ## Create Data Story
   - All together
 
+# Main issue:
+Unfortunately we were not able to carry out our project as initially hoped. Our analysis had to be based on sentiment analysis and we tried different methods to make it work but we could not find a solution. Indeed, we realized that our keywords like "BLM", "police brutality" had very often a negative connotation. Some quotations that had a positive meaning for us, also gave a negative sentiment score, depending on how the sentence was turned. This completely skewed our results and we were not able to perform certain methods and analyses correctly.
 
 [comment]: <> (# Questions for TAs optional: Add here any questions you have for us related to the proposed project.)
 
