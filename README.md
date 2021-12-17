@@ -8,7 +8,7 @@ The data story : https://claraledraoulec.github.io/BLM-Data-Story/
 
   In 2013, the Black Lives Matter (BLM) movement emerged in response to the police brutality experienced by Black people in the United States. The movement has become increasingly popular, presumably due to the myriad protests that have been organized since its inception. However, its popularity has sparked mixed sentiment within America’s socio-political landscape. Thus, we analyze how back people shoot by US police is mediatized and can have an impact on the discourses.
   
-  To do so, we do a comparative analysis of BLM’s approval before and after each event by performing sentiment analysis over time on related quotes found in the Quotebank dataset. Further, we show how any potential attitude shifts differ by demographic group. We hope our analysis serves to evaluate the efficacy of civic engagement. 
+  To do so, we do an analysis of occurrences of BLM movement and police brutality in the dataset at specific periods of time.
 
 
 # Research Questions: 
@@ -128,7 +128,7 @@ There are **4 main notebooks**, .
 - `aspect_based_sentiment.ipynb`: Notebook containing our attemps for the sentiment analysis.
 
 # Main issue:
-Unfortunately, as explained in the `aspect_based_sentiment.ipynb` notebook, we were not able to carry out our project as initially hoped. Our analysis had to be based on sentiment analysis and we tried different methods to make it work but event after several iterations, we could not find a solution. Indeed, we realized that our keywords like "BLM", "police brutality" had very often a negative connotation. Some quotations that had a positive meaning for us, also gave a negative sentiment score, depending on how the sentence was turned. This completely skewed our results and we were not able to perform certain methods and analyses correctly. We tried to find some alternative solutions, this is why we changed our initial plan slightly.
+Unfortunately, as explained in the `aspect_based_sentiment.ipynb` notebook, we were not able to carry out our project as initially hoped. Our analysis had to be based on sentiment analysis and we tried different methods to make it work but even after several trials, we could not find a solution. Indeed, we realized that our keywords like "BLM", "police brutality" had very often a negative connotation. Some quotations that had a positive meaning for us, also gave a negative sentiment score, depending on how the sentence was turned. This completely distorted our results and we were not able to perform certain methods and analysis correctly. We tried to find some alternative solutions, this is why we changed our initial plan slightly.
 
 [comment]: <> (# Questions for TAs optional: Add here any questions you have for us related to the proposed project.)
 
