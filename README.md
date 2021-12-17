@@ -118,6 +118,12 @@ Over Break: Write Data Story (f)
 ## Create Data Story
   - All together
 
+ # Repository organization
+There are **3 main notebooks**, . 
+- `introduction_visualization.ipynb`: This is the code to generate the few visualizations and facts in the introduction.
+- `quotes_analysis.ipynb`: This notebook  .
+- `data_wrangling.ipynb`: Notebook used to extract quotations from the quotebank.
+
 # Main issue:
 Unfortunately we were not able to carry out our project as initially hoped. Our analysis had to be based on sentiment analysis and we tried different methods to make it work but event after several iterations, we could not find a solution. Indeed, we realized that our keywords like "BLM", "police brutality" had very often a negative connotation. Some quotations that had a positive meaning for us, also gave a negative sentiment score, depending on how the sentence was turned. This completely skewed our results and we were not able to perform certain methods and analyses correctly. So we tried to find an alternative solution, which is why we changed our initial plan slightly
 
