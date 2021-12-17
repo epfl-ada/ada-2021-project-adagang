@@ -93,15 +93,13 @@ Over Break: Write Data Story (f)
 ## Data Wrangling
   - Paula & Danae: Speaker dataset: get it cleaned and have all important visualizations done, get it prepped for combining with Quotebank
   - Clara & Hugo: Quotebank Dataset: get it cleaned and have all important visualizations done, get it prepped for modeling
-  - Hugo: Analyze if the extra dataset can be useful and make some visualizations with to introduce the data story
+  - Hugo & Paula: Analyze if the extra dataset can be useful and make some visualizations with to introduce the data story
 
 
 ## Modeling
-  - Paula & Danae: NLP, obtain a usable sentiment analysis. It wasn't accurate enough and we were not able to make conclusion
-  - Danae & Hugo: Clustering
-  - All: How do we combine these techniques?
-  - 
-  Sentiment Analysis, sementic analysis based on lexical categories, name entity recognition
+  - Paula & Danae: NLP, obtain a usable sentiment analysis. After many iterations to improve the model, it wasn't accurate enough and we were not able to make conclusion
+  - Danae : Sementic analysis based on lexical categories in order to improve the selected keywords
+  - Clara & Danae & Hugo : Name entity recognition to select most cited names associated with BLM 
 
 ## Data Visualization
   - Paula & Hugo: time-series, visualize change in sentiment as a function of time
