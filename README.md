@@ -8,7 +8,7 @@ The data story : https://claraledraoulec.github.io/BLM-Data-Story/
 
   In 2013, the Black Lives Matter (BLM) movement emerged in response to the police brutality experienced by Black people in the United States. The movement has become increasingly popular, presumably due to the myriad protests that have been organized since its inception. However, its popularity has sparked mixed sentiment within America’s socio-political landscape. Thus, we analyze how back people shoot by US police is mediatized and can have an impact on the discourses.
   
-  To do so, we do a comparative analysis of BLM’s approval before and after each event by performing sentiment analysis over time on related quotes found in the Quotebank dataset. Further, we show how any potential attitude shifts differ by demographic group. We combine this analysis with data on what tangible socio-political change has been made as a result of these demonstrations. We hope our analysis serves to evaluate the efficacy of civic engagement. 
+  To do so, we do a comparative analysis of BLM’s approval before and after each event by performing sentiment analysis over time on related quotes found in the Quotebank dataset. Further, we show how any potential attitude shifts differ by demographic group. We hope our analysis serves to evaluate the efficacy of civic engagement. 
 
 
 # Research Questions: 
