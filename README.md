@@ -11,28 +11,31 @@
 
 # Research Questions: 
 
-Analyze the impact of events related to BLM/police brutality on discourse:
-  - How does each event affect how often BLM/police brutality is talked about?
+Analyze the mediatization of BLM after a police officer killed a black person:
+  - How does each kill affect how often BLM is talked about?
   - Do these events cause a positive or negative shift in how BLM is viewed?
   - How do demographics affect how each speaker reacts to an event?
-  - What are the most impactful events and why? What are the characteristics of these events?
+  - What are the most impactful events/crime and why?
 
-Analyze the impact of events related to BLM on legislation/politics
-  - What type of police reform has occurred?
-  - Police budgets (increase or decrease with calls to defund?) 
-    - possible confounders here, budgets fluctuate for many reasons
+[comment]: <> ( Analyze the impact of events related to BLM on legislation/politics ) 
+[comment]: <> (  - What type of police reform has occurred? )
+[comment]: <> (  - Police budgets, increase or decrease with calls to defund?) 
+[comment]: <> (    - possible confounders here, budgets fluctuate for many reasons  )
 
 
-# Proposed additional datasets (if any): 
+# Additional datasets used: 
 
-We are still working through and deciding on which to use:
-Police brutality data:
-https://www.kaggle.com/ahsen1330/us-police-shootings
-https://www.kaggle.com/washingtonpost/police-shootings → 2 different datasets to introduce the story, compare the proportion of people from different demographic groups killed by the police and show that there are significant problems with this.
+[comment]: <> (We are still working through and deciding on which to use:)
+[comment]: <> (Police brutality data:)
+[comment]: <> (https://www.kaggle.com/ahsen1330/us-police-shootings)
+[comment]: <> (https://www.kaggle.com/washingtonpost/police-shootings → 2 different datasets to introduce the story, compare the proportion of people from different demographic groups killed by the police and show that there are significant problems with this.)
 
-https://www.kaggle.com/yash612/black-lives-matter-twitter-dataset → twitter dataset related to BLM with score depending if the tweet has a positive or a negative influence
-https://www.kaggle.com/new-york-state/nys-hate-crimes-by-county-and-bias-type?select=hate-crimes-by-county-and-bias-type-beginning-2010.csv 
-Library with different dataframes about BLM : policing and Incarceration
+[comment]: <> (https://www.kaggle.com/yash612/black-lives-matter-twitter-dataset → twitter dataset related to BLM with score depending if the tweet has a positive or a negative influence)
+[comment]: <> (https://www.kaggle.com/new-york-state/nys-hate-crimes-by-county-and-bias-type?select=hate-crimes-by-county-and-bias-type-beginning-2010.csv 
+Library with different dataframes about BLM : policing and Incarceration)
+
+We finally used only 1 extra dataset to introduce and motivate the project. The dataset was found on the Washington Post website: https://www.washingtonpost.com/graphics/investigations/police-shootings-database/ .
+It contains all the persons shoot by US police between 2015 and today. 
 
 
 # Methods:
