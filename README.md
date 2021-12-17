@@ -2,7 +2,7 @@
 
 # Title: Black Lives Matter: How has the movement impacted the world?
 
-The data story : https://github.com/ClaraLeDraoulec/BLM-Data-Story/blob/gh-pages/data_story.md
+The data story : https://claraledraoulec.github.io/BLM-Data-Story/
 
 # Abstract: 
 
