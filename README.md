@@ -119,9 +119,10 @@ Over Break: Write Data Story (f)
   - All together
 
  # Repository organization
-There are **3 main notebooks**, . 
+There are **4 main notebooks**, . 
 - `introduction_visualization.ipynb`: This is the code to generate the few visualizations and facts in the introduction.
 - `quotes_analysis.ipynb`: This notebook  .
+- `data_wrangling.ipynb`: Notebook used to extract quotations from the quotebank.
 - `data_wrangling.ipynb`: Notebook used to extract quotations from the quotebank.
 
 # Main issue:
