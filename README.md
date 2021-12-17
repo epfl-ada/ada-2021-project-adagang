@@ -88,12 +88,12 @@ Over Break: Write Data Story (f)
 
 ## Preliminary work
   - Together: Find preliminary set of significant events/people
-  - Clara & Danae: Establish list of keywords
+  - Clara & Danae: Establish list of keywords, first by ourselves, an then by topic detection but it didn't get us anywhere...
  
 ## Data Wrangling
   - Paula & Danae: Speaker dataset: get it cleaned and have all important visualizations done, get it prepped for combining with Quotebank
   - Clara & Hugo: Quotebank Dataset: get it cleaned and have all important visualizations done, get it prepped for modeling
-  - All: Additional datasets
+  - Hugo: Analyze if the extra dataset can be useful and make some visualizations with to introduce the data story
 
 
 ## Modeling
@@ -113,6 +113,7 @@ Over Break: Write Data Story (f)
 ## Create Data Story
   - We do this together and assign tasks when the time comes
 
+Topic detection, sentiment analysis donne rien
 
 
 [comment]: <> (# Questions for TAs optional: Add here any questions you have for us related to the proposed project.)
