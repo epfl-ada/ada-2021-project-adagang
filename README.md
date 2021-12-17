@@ -114,9 +114,9 @@ Over Break: Write Data Story (f)
 
 
 
-# Questions for TAs (optional): Add here any questions you have for us related to the proposed project.
+[comment]: <> (# Questions for TAs (optional): Add here any questions you have for us related to the proposed project.)
 
-  - Is the use of keywords the best way to filter the quotations ? Aren’t we missing some quotations that talk about our subject but do not contain our keywords ?
-  - On the opposite, are we including quotations that do contain the keywords but have nothing to do with police brutality ? 
-  - If we therefore use groups of keywords, doesn’t it become too restrictive ? 
-  - Finally what is the impact of those missing or extra quotations on our dataset given the huge number of quotations. 
+[comment]: <> (  - Is the use of keywords the best way to filter the quotations ? Aren’t we missing some quotations that talk about our subject but do not contain our keywords ?)
+[comment]: <> (  - On the opposite, are we including quotations that do contain the keywords but have nothing to do with police brutality ? )
+[comment]: <> (  - If we therefore use groups of keywords, doesn’t it become too restrictive ? )
+[comment]: <> (  - Finally what is the impact of those missing or extra quotations on our dataset given the huge number of quotations. )
