@@ -114,7 +114,7 @@ Over Break: Write Data Story (f)
 
 
 
-[comment]: <> (# Questions for TAs (optional): Add here any questions you have for us related to the proposed project.)
+[comment]: <> (# Questions for TAs optional: Add here any questions you have for us related to the proposed project.)
 
 [comment]: <> (  - Is the use of keywords the best way to filter the quotations ? Aren’t we missing some quotations that talk about our subject but do not contain our keywords ?)
 [comment]: <> (  - On the opposite, are we including quotations that do contain the keywords but have nothing to do with police brutality ? )
