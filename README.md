@@ -97,10 +97,11 @@ Over Break: Write Data Story (f)
 
 
 ## Modeling
-  - Paula & Clara: NLP
+  - Paula & Danae: NLP, obtain a usable sentiment analysis. It wasn't accurate enough and we were not able to make conclusion
   - Danae & Hugo: Clustering
   - All: How do we combine these techniques?
-
+  - 
+  Sentiment Analysis, sementic analysis based on lexical categories, name entity recognition
 
 ## Data Visualization
   - Paula & Hugo: time-series, visualize change in sentiment as a function of time
