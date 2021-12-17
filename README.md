@@ -84,11 +84,11 @@ By Friday December 24: Discuss analysis of results and make final conclusions (e
 
 Over Break: Write Data Story (f)
 
-# Organization within the team: 
+# Organization within the team during the project: 
 
 ## Preliminary work
-  - Paula: Find events that are significant (I’m American so probably know best what were impactful events)
-  - Clara: Establish list of keywords
+  - Together: Find preliminary set of significant events/people
+  - Clara & Danae: Establish list of keywords
  
 ## Data Wrangling
   - Paula & Danae: Speaker dataset: get it cleaned and have all important visualizations done, get it prepped for combining with Quotebank
