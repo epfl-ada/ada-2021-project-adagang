@@ -12,7 +12,7 @@
 # Research Questions: 
 
 Analyze the mediatization of BLM after a police officer killed a black person:
-  - How does each kill affect how often BLM is talked about?
+  - How does each kill affect and how often BLM is talked about?
   - Do these events cause a positive or negative shift in how BLM is viewed?
   - How do demographics affect how each speaker reacts to an event?
   - What are the most impactful events/crime and why?
@@ -49,10 +49,12 @@ It contains all the persons shoot by US police between 2015 and today.
   - Speaker dataset: explore dataset, find relevant demographic information of all speakers in our related quotes dataset (race, ethnicity, gender identity, age,     political party affiliation, socioeconomic status?, occupation - politician, activist, other).
   - Pick the most cited black persons who were killed by US police to perform some correlations with the found peaks of relevant quotes.
 
-## Modeling (to complete)
+## Modeling
   - NLP
     - Sentiment Analysis of quotes
-  - Clustering 
+  - Sementic analysis based on lexical categories and topic detection
+    - Find relevant topics, keywords and relevant people to analyze and correlate with the quotes dataset 
+  - Clustering
     - Cluster people into categories based on demographics and if their sentiment changed in positive or negative way (we will come up with a quantitative way to determine this) for each event 
 
 ## Data Visualization
@@ -69,7 +71,7 @@ It contains all the persons shoot by US police between 2015 and today.
 
 
 
-# Proposed timeline from P2 to the final deliverable
+# Initial proposed timeline from P2 to the final deliverable
 
 By Friday November 19: Complete (a) in Methods. Complete (b) in Methods for the Quotebank dataset with final cleaned version.
 
@@ -99,11 +101,12 @@ Over Break: Write Data Story (f)
 
 ## Modeling
   - Paula & Danae: NLP, obtain a usable sentiment analysis. After many iterations to improve the model, it wasn't accurate enough and we were not able to make conclusion
-  - Danae : Sementic analysis based on lexical categories in order to improve the selected keywords
+  - Danae: Sementic analysis based on lexical categories in order to improve the selected keywords
   - Clara & Danae & Hugo : Name entity recognition to select by hand most relevant cited names associated with BLM in order to perform correlations between the death of some of these people and the occurence of our quotations
+  - Hugo & Clara: Perform clustering on speakers but it did not yield anything interpretable...
 
 ## Data Visualization
-  - Paula & Hugo & Clara: time-series, visualize change in sentiment as a function of time
+  - Paula & Hugo & Clara & Danae: time-series, visualize change in sentiment as a function of time
   - Hugo & Clara: Make visualizations with the speakers attributes and the total generated quote dataset
 
 
