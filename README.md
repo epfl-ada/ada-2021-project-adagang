@@ -60,6 +60,8 @@ It contains all the persons shoot by US police between 2015 and today.
 ## Data Visualization
   - Display demographics of our speakers to show who is active in the conversation surrounding the movement.
   - Visualization to introduce the datastory (map and some facts)
+  
+
  [comment]: <> (  - Visualize clusters and change over time of both frequency and sentiment of quotes)
  [comment]: <> (  - Word maps of most frequent language used when talking about BLM, think positive might be “justice” negative might be “terrorist”, this could be impactful for the story aspect)
 
