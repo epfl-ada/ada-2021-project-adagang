@@ -41,23 +41,24 @@ It contains all the persons shoot by US police between 2015 and today.
 # Methods:
 
 ## Preliminary work
-  - Pick 1 or 2 relevant events to analyze for each year
+ [comment]: <> ( - Pick 1 or 2 relevant events to analyze for each year)
   - Establish a list of interesting keywords and interesting people to search in the quotations
 
 ## Data Wrangling
   - Quotebank dataset: explore data, extract all related quotes, visualization of amount of relevant quotes over time, are there any peaks? 
-  - Speaker dataset: explore dataset, find relevant demographic information of all speakers in our related quotes dataset (race, ethnicity, gender identity, age,     political party affiliation, socioeconomic status?, occupation - politician, activist, other)
+  - Speaker dataset: explore dataset, find relevant demographic information of all speakers in our related quotes dataset (race, ethnicity, gender identity, age,     political party affiliation, socioeconomic status?, occupation - politician, activist, other).
+  - Pick the most cited black persons who were killed by US police to perform some correlations with the found peaks of relevant quotes.
 
-## Modeling
+## Modeling (to complete)
   - NLP
     - Sentiment Analysis of quotes
   - Clustering 
     - Cluster people into categories based on demographics and if their sentiment changed in positive or negative way (we will come up with a quantitative way to determine this) for each event 
 
 ## Data Visualization
-  - Display demographics of our speakers to show who is active in the conversation surrounding the movement
-  - Visualize clusters and change over time of both frequency and sentiment of quotes
-  - Word maps of most frequent language used when talking about BLM (think positive might be “justice” negative might be “terrorist”, this could be impactful for the story aspect)
+  - Display demographics of our speakers to show who is active in the conversation surrounding the movement.
+ [comment]: <> (  - Visualize clusters and change over time of both frequency and sentiment of quotes)
+ [comment]: <> (  - Word maps of most frequent language used when talking about BLM, think positive might be “justice” negative might be “terrorist”, this could be impactful for the story aspect)
 
 
 ## Analysis
