@@ -6,7 +6,7 @@ The data story : https://claraledraoulec.github.io/BLM-Data-Story/
 
 # Abstract: 
 
-  In 2013, the Black Lives Matter (BLM) movement emerged in response to the police brutality experienced by Black people in the United States. The movement has become increasingly popular, presumably due to the myriad protests that have been organized since its inception. However, its popularity has sparked mixed sentiment within America’s socio-political landscape. Thus, we analyze how back people shoot by US police is mediatized and can have an impact on the discourses.
+  In 2013, the Black Lives Matter (BLM) movement emerged in response to the police brutality experienced by Black people in the United States. The movement has become increasingly popular, presumably due to the myriad protests that have been organized since its inception. However, its popularity has sparked mixed sentiment within America’s socio-political landscape. Thus, we analyze how select mediatized protests have impacted discourse on the movement. We focus on the fact that although a civilan is killed by the police EVERY SINGLE DAY, the media only sensationalizes certain cases, and then moves on and stops discuissing the problem. Additionally, we show how too much attention is given to "counter-movements" and we see the efforts to diminsh the impact of Black Lives Matter.
   
   To do so, we do an analysis of occurrences of BLM movement and police brutality in the dataset at specific periods of time.
 
