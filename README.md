@@ -106,7 +106,7 @@ Over Break: Write Data Story (f)
   - Hugo & Clara: Perform clustering on speakers but it did not yield anything interpretable...
 
 ## Data Visualization
-  - Paula & Hugo & Clara & Danae: time-series, visualize change in sentiment as a function of time
+  - Paula & Clara & Danae: time-series, visualize change in sentiment as a function of time
   - Hugo & Clara: Make visualizations with the speakers attributes and the total generated quote dataset
 
 
