@@ -2,6 +2,8 @@
 
 # Title: Black Lives Matter: How has the movement impacted the world?
 
+The data story : https://github.com/ClaraLeDraoulec/BLM-Data-Story/blob/gh-pages/index.md
+
 # Abstract: 
 
   In 2013, the Black Lives Matter (BLM) movement emerged in response to the police brutality experienced by Black people in the United States. The movement has become increasingly popular, presumably due to the myriad protests that have been organized since its inception. However, its popularity has sparked mixed sentiment within America’s socio-political landscape. Thus, we analyze how select mediatized protests have impacted discourse and legislative action either in favor of or in opposition to the movement.
