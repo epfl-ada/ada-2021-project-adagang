@@ -57,6 +57,7 @@ It contains all the persons shoot by US police between 2015 and today.
 
 ## Data Visualization
   - Display demographics of our speakers to show who is active in the conversation surrounding the movement.
+  - Visualization to introduce the datastory (map and some facts)
  [comment]: <> (  - Visualize clusters and change over time of both frequency and sentiment of quotes)
  [comment]: <> (  - Word maps of most frequent language used when talking about BLM, think positive might be “justice” negative might be “terrorist”, this could be impactful for the story aspect)
 
@@ -68,7 +69,7 @@ It contains all the persons shoot by US police between 2015 and today.
 
 
 
-# Proposed timeline
+# Proposed timeline from P2 to the final deliverable
 
 By Friday November 19: Complete (a) in Methods. Complete (b) in Methods for the Quotebank dataset with final cleaned version.
 
@@ -99,20 +100,18 @@ Over Break: Write Data Story (f)
 ## Modeling
   - Paula & Danae: NLP, obtain a usable sentiment analysis. After many iterations to improve the model, it wasn't accurate enough and we were not able to make conclusion
   - Danae : Sementic analysis based on lexical categories in order to improve the selected keywords
-  - Clara & Danae & Hugo : Name entity recognition to select most cited names associated with BLM 
+  - Clara & Danae & Hugo : Name entity recognition to select by hand most relevant cited names associated with BLM in order to perform correlations between the death of some of these people and the occurence of our quotations
 
 ## Data Visualization
-  - Paula & Hugo: time-series, visualize change in sentiment as a function of time
-  - Danae & Clara: clustering visualizations
+  - Paula & Hugo & Clara: time-series, visualize change in sentiment as a function of time
+  - Hugo & Clara: Make visualizations with the speakers attributes and the total generated quote dataset
 
 
 ## Analysis
-  - We do this together
+  - All together
 
 ## Create Data Story
-  - We do this together and assign tasks when the time comes
-
-Topic detection, sentiment analysis donne rien
+  - All together
 
 
 [comment]: <> (# Questions for TAs optional: Add here any questions you have for us related to the proposed project.)
