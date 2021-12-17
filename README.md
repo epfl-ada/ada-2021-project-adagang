@@ -105,7 +105,7 @@ Over Break: Write Data Story (f)
   - Paula & Danae: NLP, obtain a usable sentiment analysis. After many iterations to improve the model, it wasn't accurate enough and we were not able to make conclusion
   - Danae: Sementic analysis based on lexical categories in order to improve the selected keywords
   - Clara & Danae & Hugo : Name entity recognition to select by hand most relevant cited names associated with BLM in order to perform correlations between the death of some of these people and the occurence of our quotations
-  - Hugo & Clara: Perform clustering on speakers but it did not yield anything interpretable...
+  - Hugo & Clara: Perform clustering and regressions on speakers attributes but it did not yield anything interpretable...
 
 ## Data Visualization
   - Paula & Clara & Danae: time-series, visualize change in sentiment as a function of time
